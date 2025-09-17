@@ -1,3 +1,9 @@
+c2-ec2-netutils (1.1-5) stable; urgency=medium
+
+* Revert to classic interface naming scheme instead of predictable names.
+
+-- Georgy Melnikov <gmelnikov@croc.ru> Sun, 17 Dec 2023 17:00:00 +0300
+
 c2-ec2-netutils (1.1-4) stable; urgency=medium
 
 * Fix grep -P regexes to match PCRE2 syntax.
