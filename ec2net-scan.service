@@ -6,7 +6,7 @@
 # left in an unconfigured state.
 
 [Unit]
-Description=Finds and configures elastic network interfaces
+Description=Find and configure elastic network interfaces
 Wants=systemd-udevd.service
 After=network-online.target
 
