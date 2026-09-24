@@ -1,3 +1,9 @@
+c2-ec2-netutils (1.1-6) stable; urgency=medium
+
+* Switch Astra versions after 1.8.2 to raw networkd from debian ifupdown
+
+-- Georgy Melnikov <gmelnikov@k2.cloud> Thu, 24 Sep 2026 15:00:00 +0300
+
 c2-ec2-netutils (1.1-5) stable; urgency=medium
 
 * Revert to classic interface naming scheme instead of predictable names.
